@@ -1,0 +1,6 @@
+pywifi
+whois
+requests
+pyfiglet
+datetime
+logging
